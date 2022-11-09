@@ -22,6 +22,11 @@
 
 Dialogflow can be tested in the dialogflow console itself. On the left it has a prompt where one can enter text to get the result. But, we need the results in a programming environment. Dialogflow provides multiple APIs to communicate with the Agent and also provides REST API that can communicate with the dialogflow API over HTTP. 
 
+__At first, clone this repository with the following link__
+
+    git clone git@github.com:ksu-cs-robotics/Human-Robot-Interaction.git
+
+
 ### Initializing Google Cloud CLI
 
 For authentication and communicating using the API we need to install Google Cloud CLI and set it up with our google account. Following steps initializes it and sets up with our credentials. The steps are for Ubuntu / Debian operating systems. 
@@ -49,6 +54,11 @@ Open a new terminal and follow these steps to get started.
 
         gcloud init
 
+### Authentication
+
+    gcloud auth application-default login
+    gcloud auth application-default set-quota-project PROJECT_ID
+    
 ### Using Python Client Library
 
 For this step, we are going to need the __PROJECT_ID__ for the Dialogflow Agent that was created. Follow these steps to get the __PROJECT_ID__.
