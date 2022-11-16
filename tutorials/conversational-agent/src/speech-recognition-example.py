@@ -54,14 +54,5 @@ if __name__ == '__main__':
     recognizer = sr.Recognizer()
     microphone = sr.Microphone()
 
-    PROJECT_ID = 'smarttrashcan-wbmh'
-    SESSION_ID = '1234'
-    LANGUAGE_CODE = 'en-US'
-    
-
-    guess = recognize_speech_from_mic(recognizer, microphone)
-    if guess["error"] is not None:
-        text = guess["Transcription"]
-        print(text)
-        result = detect_intent_texts(PROJECT_ID, SESSION_ID, text, LANGUAGE_CODE)
-        print(result)
+    audio = recognize_speech_from_mic(recognizer, microphone)
+    print(audio)
