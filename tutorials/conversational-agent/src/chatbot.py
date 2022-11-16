@@ -19,7 +19,7 @@ def detect_intent_texts(project_id, session_id, texts, language_code):
         response = session_client.detect_intent(
             request={"session": session, "query_input": query_input}
         )
-
+        print(response)
         return response.query_result.fulfillment_text
 
 if __name__ == "__main__":
