@@ -84,7 +84,7 @@ For this step, we are going to need the __PROJECT_ID__ for the Dialogflow Agent 
 
 8. Run this code with the following command 
 
-        python main.py
+        python chatbot.py
 
 9. It should prompt you for messages that will be passed to google dialogflow agent. Enter `quit` anytime to exit the script.
 
