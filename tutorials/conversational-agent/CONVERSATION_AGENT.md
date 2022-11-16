@@ -22,21 +22,25 @@ We can built a conversation agent (Like a smart assitant) on top of Google Dialo
 
         sudo apt-get install python3-pip
 
-4. Install PyAudio
+4. Install libspeak
+        
+        sudo apt-get install espeak
+
+5. Install PyAudio
 
         pip3 install pyaudio
     
-5. Install ttysx3
+6. Install ttysx3
 
         pip3 install pyttsx3
 
-6. Install SpeechRecognition
+7. Install SpeechRecognition
 
         pip3 install SpeechRecognition
     
-6. Google's API should be setup from previous instructions.
+8. Google's API should be setup from previous instructions.
 
-7. Run conversation-agent.py
+9. Run conversation-agent.py
 
         python3 conversation-agent.py
 
