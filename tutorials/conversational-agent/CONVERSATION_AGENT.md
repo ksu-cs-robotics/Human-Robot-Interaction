@@ -29,6 +29,10 @@ We can built a conversation agent (Like a smart assitant) on top of Google Dialo
 5. Install ttysx3
 
         pip3 install ttysx3
+
+6. Install SpeechRecognition
+
+        pip3 install SpeechRecognition
     
 6. Google's API should be setup from previous instructions.
 
