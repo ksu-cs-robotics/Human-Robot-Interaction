@@ -30,7 +30,7 @@ We can built a conversation agent (Like a smart assitant) on top of Google Dialo
 
         pip3 install pyaudio
     
-6. Install ttysx3
+6. Install pyttysx3
 
         pip3 install pyttsx3
 
