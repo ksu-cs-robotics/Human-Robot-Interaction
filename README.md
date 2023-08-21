@@ -28,7 +28,7 @@
 |||
 |--|--|
 |Class Instructor:|Dr. Jong-Hoon Kim|
-|Office Location:|MSB 236-A|
+|Office Location:|MSB 236-B|
 |Office Phone:|330-672-9060|
 |e-mail:|jkim72@kent.edu|
 |Office Hours:|Monday and Wednesday: <br/> 10:00 AM - 11:00 AM (in person: MSB 236-B or Virtual: MS Team ) <br/> 12:15 PM ~ 13:00 PM (in person: MSB 236-B or Virtual: MS Team )  <br/> Other times by appointment|
