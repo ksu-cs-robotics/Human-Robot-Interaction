@@ -58,11 +58,7 @@ Human-Robot Interaction (HRI) is the study of interactions between humans and ro
 <img src="resources/images/random/sy2.png" width="49%"/>
 </div>
 
-<div align="center">
-<a href = "​https://youtu.be/F-Cr1E8kr7c"> <h4>[Battle Bot Competition for this class] </a>
-</div>
 
-<img src="resources/images/random/sy3.png" width="100%"/>
 <div align="center">
 <a href = "https://www.youtube.com/watch?v=YLt52r9IgaQ"> <h4>[An Example Ongoing Project at ATR Lab] </a>
 </div>
